@@ -1,0 +1,216 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    padding-bottom: 5%;
+}
+
+a{
+    text-decoration: none;
+}
+a.navbar_links{
+    color: black;
+    font-size: 20px;
+}
+
+#navbar{
+    display: none;
+    justify-content: flex-end;
+    column-gap: 20px;
+    padding: 10px 40px;
+    font-weight: 500;
+}
+
+#backdrop{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    column-gap: 25px;
+    padding: 3%  8%;
+    margin-top: 4%;
+    text-align: center;
+}
+
+img.dp{
+    width: 200px;
+    height: auto;
+}
+
+@media screen and (min-width: 500px){
+    #backdrop{
+        flex-direction: row;
+        text-align: left;
+    }
+    #leftcolumn{
+        width: 50%; 
+    }
+
+    #leftcolumn > h1{
+        font-size: 44px; 
+    }
+
+    img.dp{
+        width: 300px;
+        height: auto;
+    }
+    #rightcolumn{
+        flex-basis: 45%; 
+        text-align: center;
+    }
+    #navbar{
+        display: flex;
+    }
+    
+}
+
+/* #backdrop > div {
+    border: 1px solid red;
+} */
+
+#leftcolumn{
+    width: 100%; 
+    color: #21243D;
+}
+
+#leftcolumn > h1{
+    font-weight: 700;
+    font-size: 32px; 
+}
+
+#leftcolumn > p{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#backdrop_button{
+    background-color: #FF6464;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 0; 
+}
+    
+#rightcolumn{
+    flex-basis: 100; 
+    text-align: center;
+}
+
+#education{
+    background-color: #EDF7FA;
+    padding: 5% 2%;
+    margin-top: 10px;
+}
+
+#recent_posts_header{
+    display: flex; 
+    justify-content: space-between;
+}
+
+#recent_posts_header > h4{
+    font-weight: 400;
+    font-size: 22px;
+    color: #21243D;
+    margin: 0;
+}
+
+div.card{
+    color: #21243d;
+    font-weight: 400;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px 22px; 
+}
+
+h2.my_h2{
+    color: #21243d;
+    font-weight: 700;
+    font-size: 26px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+div.card > span{
+    font-size: 18px;
+    padding: 5px 10px;
+}
+
+div.card > p{
+    font-size: 16px;
+}
+
+#card_container{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+@media screen and (min-width:500px){
+    #card_container{
+        display: flex;
+        flex-direction: row;
+        column-gap: 1%;
+    }
+
+    #education{ 
+        padding: 1.5% 8%;
+        margin-top: 10px;
+    }
+}
+
+section.featured_works{
+    background-color: white;
+    padding: 5% 8%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+div.horizontal_card{
+    display: flex;
+    flex-direction: column;
+    column-gap: 3%;
+}
+
+@media screen and (min-width:500px){
+    div.horizontal_card{
+        flex-direction: row;
+        row-gap: 20px;
+    }
+}
+
+span.pill{
+    background-color: #142850;
+    padding: 2.5px 15px; 
+    color: white;
+    border-radius: 15px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+span.secondary_text{
+    color: #8595a4;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+div.horizontal_card > div > p{
+    color: #21243D; 
+    font-size: 16px;
+}
+
+div.horizontal_card > img{
+    border-radius: 6px;
+}
+
+#social_media_links{
+    font-size: 30px;
+    color: #142850;
+    display: flex;
+    column-gap: 15px;
+    justify-content: center;
+    align-items: baseline;
+}
+
+#social_media_links > a {
+    color: #142850;
+}
