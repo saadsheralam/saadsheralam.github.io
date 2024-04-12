@@ -9,7 +9,8 @@ redirect_from:
 
 About 
 ===== 
-This website is under construction. 
+
+<span style="color:red">**This website is under construction.**</span>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse egestas magna et lacinia luctus. Etiam blandit neque non ligula varius, sit amet tincidunt elit molestie. Ut nibh sem, luctus quis rhoncus ac, ultrices non elit. Aenean sed odio et enim maximus vestibulum at eget felis. Nunc porttitor mauris in ante pretium, non faucibus nisl sodales. Nullam molestie nulla velit. Vestibulum commodo sollicitudin ullamcorper. Ut euismod neque eu rutrum suscipit. Aliquam venenatis ultricies magna, a faucibus lectus pellentesque vitae. Mauris tincidunt ipsum vel dolor bibendum efficitur.
 
