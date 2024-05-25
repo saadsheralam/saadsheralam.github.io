@@ -10,9 +10,12 @@ redirect_from:
 About 
 ===== 
 
-<span style="color:red">**This website is under construction.**</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse egestas magna et lacinia luctus. Etiam blandit neque non ligula varius, sit amet tincidunt elit molestie. Ut nibh sem, luctus quis rhoncus ac, ultrices non elit. Aenean sed odio et enim maximus vestibulum at eget felis. Nunc porttitor mauris in ante pretium, non faucibus nisl sodales. Nullam molestie nulla velit. Vestibulum commodo sollicitudin ullamcorper. Ut euismod neque eu rutrum suscipit. Aliquam venenatis ultricies magna, a faucibus lectus pellentesque vitae. Mauris tincidunt ipsum vel dolor bibendum efficitur.
+I have completed my BS CS from the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/){:target="_blank"}. During my undergrad, I was advised by [Dr. Tianyin Xu](https://tianyin.github.io/){:target="_blank"}, [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/){:target="_blank"}, and [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/){:target="_blank"}. My research interests lie in *Systems and Software Reliability*. I will be joining the [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/){:target="_blank"} for MS CS in Fall'24.     
+
+<span style="color:red">**I am actively looking for SWE/MLE internships for Summer'25.**</span> If you have a referral, please reach out at saadsa2@illinois.edu.
+
+
 
 Publications 
 ===== 
