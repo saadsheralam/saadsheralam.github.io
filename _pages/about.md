@@ -13,7 +13,7 @@ About
 
 I have completed my BS CS from the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/){:target="_blank"}. During my undergrad, I was advised by [Dr. Tianyin Xu](https://tianyin.github.io/){:target="_blank"}, [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/){:target="_blank"}, and [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/){:target="_blank"}. My research interests lie in *Systems and Software Reliability*. I will be joining the [University of Illinois Urbana-Champaign (UIUC)](https://cs.illinois.edu/){:target="_blank"} for MS CS in Fall'24.     
 
-<span style="color:red">**I am actively looking for SWE/MLE internships for Summer'25.**</span> If you have a referral, please reach out at saadsa2@illinois.edu.
+<span style="color:red">**I am actively looking for SWE/MLE or research internships for Summer'25.**</span> If you have a referral, please reach out at saadsa2@illinois.edu.
 
 
 
