@@ -32,7 +32,8 @@ In Proceedings of the 33rd ACM Web Conference (**TheWebConf'24**), Sentosa, Sing
 
 Teaching 
 ===== 
-1. CS473: Network Security, Spring'24 - Teaching Assistant (LUMS)
-2. CS334: Principles and Techniques of Data Science, Fall'23 - Teaching Assistant (LUMS)
-3. CS202: Data Structures, Spring'23 - Teaching Assistant (LUMS)
-4. CS589: Recent Developments in Blockchain Technologies, Fall'22 - Teaching Assistant (LUMS)
+1. CS225: Data Structures, Fall'24 - Teaching Assistant (UIUC)
+2. CS473: Network Security, Spring'24 - Teaching Assistant (LUMS)
+3. CS334: Principles and Techniques of Data Science, Fall'23 - Teaching Assistant (LUMS)
+4. CS202: Data Structures, Spring'23 - Teaching Assistant (LUMS)
+5. CS589: Recent Developments in Blockchain Technologies, Fall'22 - Teaching Assistant (LUMS)
