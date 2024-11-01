@@ -21,11 +21,12 @@ Publications
 ===== 
 1. **Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software** <br>
 by Anna Mazhar, <ins>Saad Sher Alam</ins>, Xinze Zheng, Yinfang Chen, Suman Nath, Tianyin Xu <br>
-_**In Submission**_
+In Proceedings of the 47th International Conference on Software Engineering (**ICSE'25**), Ottawa, Canada <br>
+
 
 2. **Uncovering the Hidden Data Costs of Mobile YouTube Ads** <br>
 by Emaan Atique*, <ins>Saad Sher Alam*</ins>, Harris Ahmad, Zafar Ayyub Qazi, Ihsan Ayyub Qazi <br>
-The 2024 ACM Web Conference (**TheWebConf'24**), Sentosa, Singapore <br>
+In Proceedings of the 33rd ACM Web Conference (**TheWebConf'24**), Sentosa, Singapore <br>
 *Authors contributed equally <br>
 [[paper](/files/ytafford-www'24.pdf){:target="_blank"}, [code](https://github.com/nsgLUMS/videoads-affordability-www24){:target="_blank"}]
 
