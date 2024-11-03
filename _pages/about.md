@@ -22,7 +22,7 @@ Publications
 1. **Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software** <br>
 by Anna Mazhar, <ins>Saad Sher Alam</ins>, Xinze Zheng, Yinfang Chen, Suman Nath, Tianyin Xu <br>
 In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (**ICSE'25**), Ottawa, Canada <br>
-[[paper](https://saadsheralam.github.io/){:target="_blank"}, [code](https://saadsheralam.github.io/){:target="_blank"}]
+[[paper](https://www.microsoft.com/en-us/research/publication/fidelity-of-cloud-emulators-the-imitation-game-of-testing-cloud-based-software/){:target="_blank"}, [code](https://github.com/team-cloudtest/cloudtest){:target="_blank"}]
 
 
 2. **Uncovering the Hidden Data Costs of Mobile YouTube Ads** <br>
